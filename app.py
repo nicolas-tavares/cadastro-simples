@@ -1,3 +1,8 @@
+
+# No terminal:
+# "pip install tk"
+# "pip install customtkinter"
+
 import tkinter as tk
 from customtkinter import *
 from tkinter import messagebox
